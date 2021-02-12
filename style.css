@@ -8,6 +8,7 @@ body {
   background-image: linear-gradient(130deg, #ebc959, #ca705a);
   color: white;
   height: 100vh;
+  overflow: hidden;
 }
 
 header {
